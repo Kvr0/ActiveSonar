@@ -1,4 +1,4 @@
-#> datapack:_/tick
+#> activesonar:_/tick
 # @within tag/function tickmanager:tick
 
 ## セッション開始

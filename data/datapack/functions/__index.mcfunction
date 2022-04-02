@@ -1,4 +1,0 @@
-#> datapack:__index
-# @private
-
-
